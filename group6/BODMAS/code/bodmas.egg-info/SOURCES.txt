@@ -1,0 +1,13 @@
+setup.py
+bodmas/__init__.py
+bodmas/classifier.py
+bodmas/config.py
+bodmas/logger.py
+bodmas/multiple_data.py
+bodmas/multiple_evaluate.py
+bodmas/utils.py
+bodmas.egg-info/PKG-INFO
+bodmas.egg-info/SOURCES.txt
+bodmas.egg-info/dependency_links.txt
+bodmas.egg-info/requires.txt
+bodmas.egg-info/top_level.txt
